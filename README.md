@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-cli
 
 > A Vue.js project
@@ -16,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vuecli
+test vue deployments and circleci
+>>>>>>> 6bcac68be9babee2bfa7ca80e2529a059bcde5b0
